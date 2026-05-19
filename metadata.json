@@ -1,0 +1,8 @@
+{
+  "name": "CampusConnect",
+  "description": "An intelligent academic support chatbot for colleges. CampusConnect provides personalized information on timetables, syllabi, results, deadlines, fees, and attendance. Students can interact via text, voice, or image uploads, and the bot maintains conversational context for natural follow-up questions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
