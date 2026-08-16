@@ -4,6 +4,29 @@ CampusConnect is an AI-powered academic support platform that combines conversat
 
 ---
 
+Team Contributions
+
+Aravindhan V — AI & Conversational Intelligence
+
+Worked on the AI-powered conversational assistant.
+Integrated Google Gemini AI APIs.
+Developed AI interaction and prompt-handling logic.
+Worked on voice/AI interaction functionality.
+
+Jeevan Thomas John — Database & Backend
+
+Worked on Firebase database integration.
+Managed student and academic data.
+Worked on backend data handling.
+
+Jijo — Frontend Development
+
+Developed the React and TypeScript frontend.
+Built responsive UI components.
+Worked on frontend integration.
+
+---
+
 ## Features
 
 - AI-powered conversational assistant
